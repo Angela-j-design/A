@@ -1,4 +1,13 @@
-html {
-  height: 100%;
-  width: 100%;
+div{
+  font-size:50px;
+  color:lavender;
+}
+.myfirstclass {
+  background-color: pink;
+}
+.divTwo {
+  background-color: aquamarine;
+}
+.divThree {
+  background-color: pink;
 }
